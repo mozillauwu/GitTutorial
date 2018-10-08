@@ -14,6 +14,6 @@
 
 - Commit with a message (ex : added my details)
 
-- Push it
+- Push it.
 
 - Create a pull request in https://github.com/mozillauwu/GitTutorial  
