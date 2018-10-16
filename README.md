@@ -18,6 +18,5 @@
 
 - Create a pull request in https://github.com/mozillauwu/GitTutorial  
 
-abcd
 
 
